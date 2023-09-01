@@ -26,10 +26,9 @@ I am a dedicated and enthusiastic software developer with a passion for creating
 **Python Machine Learning Stack:** Basic Python proficiency, utilizing key libraries like NumPy, Pandas, Matplotlib, and Scikit-Learn.
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/sahana-sudhakara)
-- Email: ssudhakara@scu.edu
+- Email: [ssudhakara@scu.edu](mailto:ssudhakara@scu.edu)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-sudhakara)
+  
+## 🌐 Check out the GitHub repository:
 
-## 🌐 Check Out My Work
-Explore my GitHub repositories to see more of my projects and contributions.
-
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/SahanaSudhakara/Machine-learning-Algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SahanaSudhakara&repo=Machine-learning-Algorithms&show_owner=True)](https://github.com/SahanaSudhakara/Machine-learning-Algorithms)
